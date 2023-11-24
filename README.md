@@ -2,9 +2,9 @@
   <img src="https://github.com/Nat-Amato/Convertitore-PDF-A/assets/48321178/6cf4ef00-5549-4244-9140-21aabcb48a61" />
 </p>
 
-# Convertitore-PDF-A
+# Convertitore-PDF/A
 
-Il Convertitore-PDF-A è un'applicazione desktop sviluppata per convertire i file PDF in formato PDF/A.
+Il Convertitore-PDF/A è un'applicazione desktop sviluppata per convertire i file PDF in formato PDF/A.
 
 ## Perché questo software?
 Questo software è stato progettato per rispondere a un'esigenza specifica: la conversione di file PDF in formato PDF/A in modo semplice e diretto. Questo processo è fondamentale quando si devono rispettare determinati standard di formato. Ad esempio, il portale RUNTS richiede che i file siano prima convertiti in formato PDF/A, un formato standardizzato per l'archiviazione a lungo termine di documenti elettronici, e successivamente firmati digitalmente in CADES, un formato di firma utilizzato per garantire l'integrità e l'autenticità dei documenti elettronici. 

@@ -28,7 +28,7 @@ import subprocess
 import threading
 import os
 
-# Aggiungi le tue informazioni qui
+# info
 SOFTWARE_NAME = "Convertitore PDF/A"
 VERSION = "1.0.0"
 DEVELOPER = "NATALE AMATO"

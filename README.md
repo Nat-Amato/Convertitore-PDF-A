@@ -46,6 +46,9 @@ Per funzionare correttamente, questa applicazione richiede il software `gswin64c
 ## Installazione
 Nella sezione "Releases" del repository GitHub, ho fornito un file installer. Una volta avviato, questo installer installerà automaticamente tutte le dipendenze necessarie, compreso `gswin64c.exe`.
 
+## Download
+Per scaricare l'applicazione "Convertitore PDF/A", clicca sul seguente link: [Convertitore PDF/A](https://mega.nz/file/71EFFApa#T9G_nqHXA-BPZW9MeA_GazpNs3GcCNWoe6ofpoToH0I)
+
 ## Sviluppatore
 NATALE AMATO
 

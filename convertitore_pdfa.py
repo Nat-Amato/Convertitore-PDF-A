@@ -28,7 +28,6 @@ import subprocess
 import threading
 import os
 
-# info
 SOFTWARE_NAME = "Convertitore PDF/A"
 VERSION = "1.0.0"
 DEVELOPER = "NATALE AMATO"
@@ -107,11 +106,9 @@ def log_message(message):
 root = ThemedTk(theme="arc")  # Usa un tema moderno
 root.title("Convertitore PDF/A")
 
-# Crea un menu nella barra del titolo di sistema
 menu_bar = tk.Menu(root)
 root.config(menu=menu_bar)
 
-# Aggiungi un'opzione 'Info' per mostrare le informazioni sul software
 menu_bar.add_command(label="Info", command=show_info)
 
 input_path_var = tk.StringVar()

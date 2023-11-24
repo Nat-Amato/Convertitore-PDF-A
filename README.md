@@ -26,6 +26,9 @@ Il formato PDF/A è una variante del classico formato PDF, pensata principalment
 - **Facile da usare**: L'interfaccia utente è intuitiva e facile da usare, rendendo la conversione dei file un gioco da ragazzi.
 - **Installazione semplice**: Con il file installer disponibile nella sezione "Releases", l'installazione del software e delle sue dipendenze è un processo semplice e diretto.
 
+## Download
+Per scaricare l'applicazione "Convertitore PDF/A", clicca sul seguente link: [Convertitore PDF/A](https://mega.nz/file/71EFFApa#T9G_nqHXA-BPZW9MeA_GazpNs3GcCNWoe6ofpoToH0I)
+
 ## Come utilizzare
 1. Avvia l'applicazione.
 2. Clicca su 'Sfoglia' per selezionare il file PDF di input.
@@ -45,12 +48,3 @@ Per funzionare correttamente, questa applicazione richiede il software `gswin64c
 
 ## Installazione
 Nella sezione "Releases" del repository GitHub, ho fornito un file installer. Una volta avviato, questo installer installerà automaticamente tutte le dipendenze necessarie, compreso `gswin64c.exe`.
-
-## Download
-Per scaricare l'applicazione "Convertitore PDF/A", clicca sul seguente link: [Convertitore PDF/A](https://mega.nz/file/71EFFApa#T9G_nqHXA-BPZW9MeA_GazpNs3GcCNWoe6ofpoToH0I)
-
-## Sviluppatore
-NATALE AMATO
-
-## Anno
-2023
